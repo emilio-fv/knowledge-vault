@@ -6,7 +6,6 @@
 
 ---
 ## Overview
-
 Metasploit is a penetration testing and exploitation framework used to identify, validate, and exploit vulnerabilities in systems, made up of a the following modules:
 - Auxiliary
 - Encoder
@@ -15,6 +14,9 @@ Metasploit is a penetration testing and exploitation framework used to identify,
 - Nop
 - Payloads
 - Post
+
+**Resources**
+- [Documentation](https://docs.metasploit.com/)
 
 **Fundamentals**
 1. What problem does this tool or tech solve?
