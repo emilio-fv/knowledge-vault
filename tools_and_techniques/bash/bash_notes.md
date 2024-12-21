@@ -1,21 +1,15 @@
-# TOOL_OR_TECH_NAME
+# Bash
 
 ---
 **Table of Contents**
-- [Overview](#overview)
-- [Architecture & Design](#architecture--design)
-- [Installation & Setup](#installation--setup)
-- [Operation & Usage](#operation--usage)
-- [Integration & Compatibility](#integration--compatibility)
-- [Performance & Optimization](#performance--optimization)
-- [Security](#security)
-- [Troubleshooting & Maintenance](#troubleshooting--maintenance)
-- [References](#references)
+[Overview](#overview)
 
 ---
 ## Overview
+Bash (Bourne Again SHell) is a Unix shell and command language that functions both as a command-line interpreter and a scripting language.
+
 **Resources**
-- [Documentation]()
+- [Documentation](https://www.gnu.org/software/bash/manual/)
 
 **Fundamentals**
 1. What problem does this tool or tech solve?
@@ -41,4 +35,6 @@
 
 ## Troubleshooting & Maintenance
 
-## References
+## Alternatives & Comparisons
+
+## Practical Applications
