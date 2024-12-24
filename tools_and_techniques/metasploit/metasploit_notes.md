@@ -9,8 +9,6 @@
 - [Performance & Optimization](#performance--optimization)
 - [Security](#security)
 - [Troubleshooting & Maintenance](#troubleshooting--maintenance)
-- [Alternatives & Comparisons](#alternatives--comparisons)
-- [Practical Applications](#practical-applications)
 - [References](#references)
 
 ---
@@ -25,7 +23,7 @@ Metasploit is a penetration testing and exploitation framework used to identify,
     - Metasploit is designed to facilitate security testing and validation through automated exploitation, which allows it to serve as a learning resource for practicing ethical hacking techniques. 
 <br>
 2. What are the key features & capabilities? Limitations?
-    - **Key Features**
+    - **Key Features & Capabilities**
         - Exploitation framework
         - Payload generation
         - Post-exploitation tools

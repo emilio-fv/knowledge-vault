@@ -1,6 +1,6 @@
 # Tools & Technologies
-The following tools & tech are covered:
-- Metasploit 
+- Metasploit
+- Bash
 
 With each new tool or tech I learn, I try to answer the following questions before diving any deeper into learning to use the tool:
 1. What problem does this tool or tech solve?
@@ -20,3 +20,6 @@ In addition to the fundamentals, the following areas are covered:
 - Troubleshooting & Maintenance
 - Alternatives & Comparisons
 - Practical Applications
+
+**Resources**
+- [The Architecture of Open Source Applications](https://aosabook.org/en/)
